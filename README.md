@@ -1,0 +1,1 @@
+A secure health care data access control using Smart Contracts, leveraging Solidity for blockchain function definitions and Python Truffle Ethereum for code deployment. Additionally, the project features a user-friendly front end to facilitate seamless interactions for both healthcare professionals and patients.
